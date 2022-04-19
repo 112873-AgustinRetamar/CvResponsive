@@ -1,0 +1,57 @@
+.izquierda{
+    background-color: #655A73;
+}
+.derecha{
+    background-color: #FFFAEF;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 240px;
+    height: 240px;
+    border-radius: 300px;
+}
+.derecha h2{
+    background-color: #B8A8CA;
+    font-size: larger;
+    text-align: center;
+}
+.izquierda h1{
+    font-size: xx-large;
+    text-align: center;
+    color: #F0EDDA;
+}
+.izquierda h2,h3,h4{
+    font-size: large;
+    color: #F0EDDA;
+    text-align: center;
+}
+.izquierda .texto{
+    text-align: justify;
+}
+.izquierda p{
+    color: white;
+    text-align: center;
+}
+.izquierda hr{
+    background-color: #F0EDDA;
+}
+.datos a{
+    color: white;
+}
+.datos{
+    line-height: 5px;
+    color: white;
+}
+.derecha #descarga{
+    color: black;
+    font-size: x-large;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+}
+.darkmode{
+    background-color: #363565;
+    color: #FCF1D8; 
+}
